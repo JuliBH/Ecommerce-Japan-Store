@@ -1,0 +1,172 @@
+body {
+    margin: 0;
+    padding: 0; 
+    overflow-x: hidden;
+}
+
+@font-face {
+    font-family: logoFont;
+    src: url("fonts/logoFont.ttf");
+  }
+
+@font-face {
+    font-family: titleFont;
+    src: url("fonts/Comfortaa-Regular.ttf");
+  } 
+
+  .carritoTitle {
+    font-family: titleFont;
+    font-size: 3rem;
+ }
+
+ .filterTitle {
+    font-family: titleFont;
+ }
+
+.navigationBar {
+    background-color: #E0BBE4;
+    color: black;
+    display: flex;
+}
+
+.logoImg {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+h1 {
+    padding-top: 60px;
+    font-family: logoFont;
+    font-size: 80px;
+}
+
+.btn--cart {
+    font-size: 40px;
+}
+
+.btn--cart:hover {
+    color: #454545;
+}
+
+#contador {
+    font-size: 1.5rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+.fa-cart-shopping {
+    color: black;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.itemBox {
+    width: 300px;
+    height: 550px;
+}
+
+.itemBoxCart {
+    width: 300px;
+    height: 300px;
+}
+
+.backHome {
+    color: black;
+}
+
+footer {
+    background-color: #f4e6f5;
+    height: 8rem;
+    width: 100%;
+    position: fixed;
+    bottom: 0; 
+    overflow: hidden; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+ }
+
+ .footerCart {
+    height: 3rem;
+    background-color: white;
+ }
+
+ .plusButton:hover {
+    color: green;
+ }
+
+ .minusButton:hover {
+    color: red;
+ }
+
+ .nameStore {
+    display: flex;
+    justify-content: flex-start;
+ }
+
+ @media only screen and (max-width: 480px) {
+    footer {
+        text-align: center;
+    }
+
+    h1 {
+        display: none;
+    }
+
+    nav {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .btn--cart {
+        padding-top: 9rem;
+    }
+
+ }
+
+ @media only screen and (min-width: 768px) {
+
+    nav {
+        height: 13rem;
+       }
+
+    h1 {
+        padding-top: 5rem;
+    }  
+
+    .btn--cart {
+        padding-top: 9rem;
+    }
+ }
+
+ @media only screen and (min-width: 1280px) {
+   
+    h1 {
+        display: flex;
+        justify-content: flex-start;
+        padding-top: 4rem;
+    }
+
+   nav {
+    height: 12.5rem;
+   }
+ } 
+
+ @media only screen and (min-width: 1690px) {
+    
+    h1 {
+        padding-top: 5rem;
+    }
+
+    nav {
+        height: 12.5rem;
+       }
+
+ }

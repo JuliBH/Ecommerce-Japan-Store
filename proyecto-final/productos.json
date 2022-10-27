@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1576,
+        "nombre": "BEFCO KURIYAMA BAKAUKE RICE CRACKERS",
+        "precio": 140.67,
+        "categoria": "snacks",
+        "img": "photos/Befco Kuriyama Bakauke Rice Crackers Hokkaido Corn.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3546,
+        "nombre": "BONCHI PONSUKE AMAKARA DOUGH SNACKS",
+        "precio": 183.00,
+        "categoria": "snacks",
+        "img": "photos/Bonchi Ponsuke Amakara Dough Snacks.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5972,
+        "nombre": "IWATSUKA KARO KAORU OKAKI RICE CRACKERS SOY SAUCE",
+        "precio": 159.42,
+        "categoria": "snacks",
+        "img": "photos/Iwatsuka Karo Kaoru Okaki Rice Crackers Soy Sauce.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 1762,
+        "nombre": "KOIKEYA SCONE CORN SNACKS YAMITSUKI BBQ",
+        "precio": 158.61,
+        "categoria": "snacks",
+        "img": "photos/Koikeya Scone Corn Snacks Yamitsuki BBQ.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5475,
+        "nombre": "YAMAYOSHI POTATO CHIPS INFINITE SEAWEED SALT",
+        "precio": 239.94,
+        "categoria": "snacks",
+        "img": "photos/Yamayoshi Potato Chips - Infinite Seaweed Salt.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 9745,
+        "nombre": "KUMAMON KARAMUCHO POTATO CHIPS SWEET AND SPICY CHILI TOMATO",
+        "precio": 158.61,
+        "categoria": "snacks",
+        "img": "photos/Kumamon Karamucho Potato Chips - Sweet and Spicy Chili Tomato.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4358,
+        "nombre": "KIKKO SEIKA POTTED GRAPE CANDY",
+        "precio": 101.67,
+        "categoria": "golosinas",
+        "img": "photos/Kikko Seika Potted Grape Candy.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7534,
+        "nombre": "LION BANANA MILK CANDY",
+        "precio": 199.27,
+        "categoria": "golosinas",
+        "img": "photos/Lion Banana Milk Candy.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3594,
+        "nombre": "LION NIPPON CANDY WHITE PEACH & HYUGANATSU",
+        "precio": 183.01,
+        "categoria": "golosinas",
+        "img": "photos/Lion Nippon Fruit Throat Candy White Peach & Hyuganatsu.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3498,
+        "nombre": "LION SUMMER STRAWBERRY CANDY",
+        "precio": 183.01,
+        "categoria": "golosinas",
+        "img": "photos/Lion Summer Strawberry Candy.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5933,
+        "nombre": "SENJAKUAME MANGO TSUKUSHI CANDY",
+        "precio": 239.94,
+        "categoria": "golosinas",
+        "img": "photos/Senjakuame Mango Tsukushi Candy.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 1169,
+        "nombre": "CALPICO DRINK",
+        "precio": 149.66,
+        "categoria": "bebidas",
+        "img": "photos/Calpico.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3385,
+        "nombre": "QOO DRINK",
+        "precio": 324.94,
+        "categoria": "bebidas",
+        "img": "photos/Qoo.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 8465,
+        "nombre": "RAMUNE DRINK",
+        "precio": 528.28,
+        "categoria": "bebidas",
+        "img": "photos/Ramune.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4855,
+        "nombre": "SANGARIA MELON SODA",
+        "precio": 199.27,
+        "categoria": "bebidas",
+        "img": "photos/Sangaria Melon Soda.png",
+        "cantidad": 1
+    },
+    {
+        "id": 3699, 
+        "nombre": "SANGARIA MUSCAT DRINK",
+        "precio": 406.68,
+        "categoria": "bebidas",
+        "img": "photos/Sangaria Muscat Drink.jpg",
+        "cantidad": 1
+    }
+]

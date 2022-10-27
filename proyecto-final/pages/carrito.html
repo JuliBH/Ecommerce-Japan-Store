@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/300101ec72.js" crossorigin="anonymous"></script>
+    <title>Japan Store</title>
+
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+    <script src="../bootstrap/js/jquery.slim.min.js"></script>
+    <script src="../bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <link rel="stylesheet" href="../estilo.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script defer src="../carrito.js"></script>
+    <script defer src="../main.js"></script>
+
+</head>
+<body>
+    
+    <section>
+        
+        <nav class="navigationBar d-flex justify-content-between">
+    
+            <div class="nameStore d-flex justify-content-start">
+                <a href="index.html"><img class="logoImg" src="../photos/logo.png" alt="logo"></a>
+                <h1 class="col-md-9">Japan Store</h1>
+            </div>
+
+            <a href="carrito.html"><i id="cart-quantity" class="fa-solid fa-cart-shopping pl-4 pb-3 btn--cart d-flex justify-content-end pr-5"></i></a>    
+
+        </nav>
+
+        <div>
+
+            <h1 class="carritoTitle p-3">Tu Carrito:</h1>
+
+            <div class="row pl-4" id="cartItems">
+
+            </div>
+
+         <div id="totalMessage">
+
+         </div>
+
+        </div>
+
+        <footer class="col-md-12 pt-1 footerCart">
+            <a href="../index.html"><p class="backHome pt-1">Volver a la página de inicio</p></a>
+        </footer>
+
+    </section>
+</body>
+</html>
